@@ -1,1 +1,4 @@
-Modifying the data in local after cloning from remote-main branch - creating conflict
+Modifying the data in local after cloning from remote-main branch - resolving conflict
+
+
+
